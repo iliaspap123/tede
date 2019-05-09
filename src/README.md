@@ -1,2 +1,0 @@
-# tede
-project 1
