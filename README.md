@@ -8,8 +8,8 @@ text to determine if the author's attitude towards one
 a particular topic, product etc. is positive, negative or neutral.
 The data are from the annual competition
 SemEval (International Workshop on Semantic Evaluation) and specifically
-2017 competition for emotion analysis in tweets.
-See the final review in this path: [tede/src_sdi1500057/final.ipynb](https://github.com/iliaspap123/tede/src_sdi1500057/final.ipynb)
+2017 competition for emotion analysis in tweets.<br/>
+See the final review in this path: [tede/src_sdi1500057/final.ipynb](https://github.com/iliaspap123/tede/blob/master/src_sdi1500057/final.ipynb)
 ### Data pre-processing
 1) data cleaning
 2) tokenization
