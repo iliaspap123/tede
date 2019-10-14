@@ -10,3 +10,16 @@ The data are from the annual competition
 SemEval (International Workshop on Semantic Evaluation) and specifically
 2017 competition for emotion analysis in tweets.
 
+### Data pre-processing
+1) data cleaning
+2) tokenization
+3) stemming
+
+### Vectorization
+1) Bag-of-words
+2) Tf-idf
+3) word embeddings
+
+### Classifiers
+1) SVM
+2) KNN
